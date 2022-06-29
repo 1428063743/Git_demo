@@ -11,4 +11,4 @@ hello bonc! hello git!
 hello bonc! hello git!
 444444444444444444444!
 hello bonc! hello git! master test
-hello bonc! hello git!
+hello bonc! hello git! hot-fix test
